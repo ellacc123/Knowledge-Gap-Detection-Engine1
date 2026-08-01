@@ -3,6 +3,8 @@ An ML system that automates knowledge gap detection for research team onboarding
 
 Link (if doesn't work scroll down for screenshots): http://playfair.cs.washington.edu:8590
 
+![Presentation](Symposium.png)
+
 Process:
 
 1. The engine turns a research team's scattered artifacts (meeting transcripts, notes, papers) into a negotiable onboarding map.
