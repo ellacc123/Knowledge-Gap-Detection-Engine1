@@ -3,9 +3,7 @@ An ML system that automates knowledge gap detection for research team onboarding
 
 Link (if doesn't work scroll down for screenshots): http://playfair.cs.washington.edu:8590
 
-<p align="center">
-  <img src="Symposium.png" alt="Presentation" width="200">
-</p>
+<img src="Symposium.png" alt="Presentation" width="200">
 
 Process:
 
